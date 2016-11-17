@@ -1,4 +1,5 @@
 GIT REMOTE
 --------------
 Add by dev branch
-Add one more line
+Add by dev branch @ other
+Add one more line (fixed)
